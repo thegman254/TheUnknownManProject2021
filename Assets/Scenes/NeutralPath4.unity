@@ -157,7 +157,7 @@ RectTransform:
   - {fileID: 1540050323}
   - {fileID: 1970913031}
   m_Father: {fileID: 1927458179}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -187,12 +187,13 @@ MonoBehaviour:
       sorry for that
     - "It was a bitch move on my part just ghosting you like that, but you were pretty
       unbearable at the time and I couldn\u2019t handle it anymore."
-    - "Ahh, alright that explains and I get it, I see where you\u2019re coming from
-      yeah, though you could\u2019ve at least told me you wanted some time to yourself."
+    - "Ahh, alright that explains it and I get it, I see where you\u2019re coming
+      from yeah, though you could\u2019ve at least told me you wanted some time to
+      yourself."
     - "Well, I could, but I really wasn\u2019t sure if you\u2019d even let me have
       it to be fair, and I just didn\u2019t want to get into an argument with you."
     - Yeah, I can understand that, but even then yooou left me hanging for over three
-      years without getting back at me at all.
+      years without getting back to me at all.
     - Rachel sighs as if acknowledging her shortcoming here.
     - "Yeah, sorry, that part is really my bad. I hope it didn\u2019t hurt you that
       much though."
@@ -270,7 +271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -636,7 +637,7 @@ RectTransform:
   m_Children:
   - {fileID: 935569715}
   m_Father: {fileID: 1927458179}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1256,11 +1257,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1927458179}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 15.4, y: -14.832031}
+  m_AnchoredPosition: {x: 15.400024, y: -14.832031}
   m_SizeDelta: {x: -433.78146, y: -484.29538}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1417166138
@@ -1380,7 +1381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1440,7 +1441,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1927458179}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1546,10 +1547,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1088642489}
-  - {fileID: 189590437}
-  - {fileID: 860902457}
   - {fileID: 1417166137}
   - {fileID: 1561078229}
+  - {fileID: 189590437}
+  - {fileID: 860902457}
   m_Father: {fileID: 1292008463}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -66,6 +66,7 @@
      <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\DescboxRaycast2.cs" />
      <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\DescriptionBoxes.cs" />
      <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\GoodMemory.cs" />
+     <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\Memories.cs" />
      <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\Memory.cs" />
      <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\Scene1IsHonestlyTerrible.cs" />
      <Compile Include="Assets\Scripts\Currently defunct scripts that will be used as reference later\Singleton.cs" />
@@ -91,7 +92,6 @@
      <Compile Include="Assets\Scripts\General\JumpPad.cs" />
      <Compile Include="Assets\Scripts\General\KarmaData.cs" />
      <Compile Include="Assets\Scripts\General\KarmaSystem.cs" />
-     <Compile Include="Assets\Scripts\General\Memories.cs" />
      <Compile Include="Assets\Scripts\General\MemoriesManager.cs" />
      <Compile Include="Assets\Scripts\General\MenuController.cs" />
      <Compile Include="Assets\Scripts\General\MovingPlatform.cs" />
